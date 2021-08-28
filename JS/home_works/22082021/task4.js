@@ -7,6 +7,6 @@ reverseString = (words) =>
     }
     return str;
 };
-console.log(reverseString("а роза упала на лапу азора"));
+console.log(reverseString("а роза упала на лапу азора " ));
 
 
